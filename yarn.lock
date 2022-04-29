@@ -1227,6 +1227,16 @@
     "@firebase/util" "1.5.2"
     tslib "^2.1.0"
 
+"@firebase/app@^0.7.22":
+  version "0.7.22"
+  resolved "https://registry.yarnpkg.com/@firebase/app/-/app-0.7.22.tgz#bf0a7a65f296a103031f4e0a86b142b3d36da64a"
+  integrity sha512-v3AXSCwAvZyIFzOGgPAYtzjltm1M9R4U4yqsIBPf5B4ryaT1EGK+3ETZUOckNl5y2YwdKRJVPDDore+B2xg0Ug==
+  dependencies:
+    "@firebase/component" "0.5.13"
+    "@firebase/logger" "0.3.2"
+    "@firebase/util" "1.5.2"
+    tslib "^2.1.0"
+
 "@firebase/auth-compat@0.2.12":
   version "0.2.12"
   resolved "https://registry.yarnpkg.com/@firebase/auth-compat/-/auth-compat-0.2.12.tgz#a13bd42c4ee36ddbf764ae24958cf4c64ddba5b5"
